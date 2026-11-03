@@ -1,0 +1,14 @@
+classification_prompt:
+  aadhar_prompt:  |
+    -check the given document is actually aadhar or not
+    - On aadhar aadhar number always mask and last 4 digits only visible
+    
+
+
+
+extraction_prompt:
+  aadhar_prompt: |
+    - Extact the first name
+    - Extract the middel name if avilable else Null
+    - Extract the last name 
+    - Extract the last 4 digit of the aadhar card 
