@@ -1,4 +1,4 @@
-from langraph.graph import StateGraph, START, END
+from langgraph.graph import StateGraph, START, END
 from src.pipeline.state.data_state import MyState
 from src.pipeline.nodes.nodes import Nodes
 node_instance = Nodes()

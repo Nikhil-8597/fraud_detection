@@ -1,0 +1,17 @@
+Ignore Text files
+
+*.txt
+
+Ignore PDF files
+
+*.pdf
+
+Ignore Excel files
+
+*.xls
+*.xlsx
+*.csv
+
+Ignore Log files
+
+*.log
