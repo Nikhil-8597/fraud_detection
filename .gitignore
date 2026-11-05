@@ -15,3 +15,5 @@ Ignore Excel files
 Ignore Log files
 
 *.log
+
+*.env
